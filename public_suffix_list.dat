@@ -12414,6 +12414,24 @@ cx.ua
 discourse.group
 discourse.team
 
+// ClawCloud (Singapore) Private Limited: https://claw.cloud/
+// Submitted by ClawCloud Run <support@run.claw.cloud>
+*.cn-hongkong.clawcloudrun.com
+*.ap-southeast-1.clawcloudrun.com
+*.ap-southeast-3.clawcloudrun.com
+*.ap-southeast-5.clawcloudrun.com
+*.ap-southeast-6.clawcloudrun.com
+*.ap-southeast-7.clawcloudrun.com
+*.ap-northeast-1.clawcloudrun.com
+*.ap-northeast-2.clawcloudrun.com
+*.us-west-1.clawcloudrun.com
+*.us-east-1.clawcloudrun.com
+*.eu-central-1.clawcloudrun.com
+*.eu-west-1.clawcloudrun.com
+*.me-east-1.clawcloudrun.com
+*.me-central-1.clawcloudrun.com
+*.na-south-1.clawcloudrun.com
+
 // Clerk : https://www.clerk.dev
 // Submitted by Colin Sidoti <systems@clerk.dev>
 clerk.app
